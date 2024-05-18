@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel</h1>
-<h3 align="center">A passionate Software Engineer, interested in the world of AI</h3>
+<h3 align="center">A passionate Software Engineer, interested in the world of AI</h3><br>
 
 - 🔭 I’m currently working on [BloomSketch, an Educational SwiftUI App](https://github.com/HDWKG/BloomSketch)
 
@@ -23,8 +23,7 @@
 <a href="https://kaggle.com/liesamuelmiraclek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="liesamuelmiraclek" height="30" width="40" /></a>
 <a href="https://instagram.com/elcarim_art" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elcarim_art" height="30" width="40" /></a>
 <a href="https://medium.com/@lsamuel01_57392" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lsamuel01_57392" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/samuel miracle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="samuel miracle" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/attraqtia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="attraqtia" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/iCmFrKv36i/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="attraqtia" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
