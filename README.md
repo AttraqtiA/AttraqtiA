@@ -1,15 +1,8 @@
-<img width="640" height="560" alt="image" src="https://github.com/user-attachments/assets/ff0d9ceb-4509-46ab-8248-fcc6104ff8f4" /><h2 align="left">Hi 👋! My name is Sam and I'm a Software & ML Engineer</h2>
+<h2 align="left">Hi 👋! My name is Sam and I'm a Software & ML Engineer</h2>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=attraqtia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=attraqtia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
-
-###
-
-<img align="right" src="https://c.tenor.com/SFrDDJ4XSQAAAAAd/tenor.gif" style="width:180px;" alt="gif" />
+<img align="right" src="towa.gif" width="240" height="240" alt="gif" />
 
 ###
 
@@ -40,8 +33,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/attraqtia/attraqtia/output/snake.svg" alt="Snake animation" />
-
-###
